@@ -4,10 +4,10 @@
 # sudo_users can be obtained from https://t.me/userinfobot
 
 [pyrogram]
-api_id = 27721730                                                      # required
-api_hash = "87762a583c0f43d5fb36784f2ea0238b"                       # required
-bot_token = "6994973276:AAFU5bE-E2Q6eArISHkTo9XtL0pfD99gUgU"                  # either bot_token or session_string is required
-session_string = "1BVtsOI4BuyXQaeKBhFOqPY8p6OJS4nxFrdJxYKXcGw-d2Am9Vi0wzgKUogS_1HocTleU02j1AOZ2itATj9Vpb86lQHjvn57KiANJ4tS_zH25VsAttLYLMAH2U7qr58uhXlEbWoThWoVFfDOwbHwVdZwRavpkgtrQQqUgVHmqgeSguGY7VqmWY7BHWrlgLvfOsmprqRZJtPmyt5IMDacs_nlHjlLpIGLJnZBd9akpLG97o0tJ01iyvCaOzuonaJ4nx61TiDHQj95ezi-dEePjV99IhJiZeyrLzZfRUio_21k832W9shzPjWiY9DHRIWK6Spsvpf04jP7DtGeLQXyFYs9f26bITFs=" # either bot_token or session_string is required
+api_id = 2772                                                     # required
+api_hash = ""                       # required
+bot_token = "222"                  # either bot_token or session_string is required
+session_string = "" # either bot_token or session_string is required
 sudo_users = [123456789, 123456789]                                 # optional
 
 
